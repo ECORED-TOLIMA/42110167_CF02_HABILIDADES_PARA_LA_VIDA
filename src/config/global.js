@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Competencias para la vida fundantes e integradoras',
-    descripcionCurso:
+    Name: 'Competencias para la vida fundantes e integradoras',
+    Description:
       'Este componente permite a los aprendices explorar y comprender las competencias fundantes e integradoras, fundamentales para el desarrollo personal y social. A partir del enfoque del Desarrollo a Escala Humana (DEH), se busca que identifiquen su importancia, potencien habilidades socioemocionales y fortalezcan su capacidad de adaptación en diversos contextos, promoviendo un impacto positivo en su entorno.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),

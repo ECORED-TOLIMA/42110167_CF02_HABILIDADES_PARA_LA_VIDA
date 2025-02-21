@@ -170,7 +170,7 @@
           table
             thead
               tr
-                th(rowspan="2") Competencias fundantes
+                th(rowspan="2") Competencias integradoras
                 th(colspan="4") Necesidades existenciales
                 th(rowspan="2") Necesidades axiológicas
               tr
@@ -232,7 +232,7 @@
           table
             thead
               tr
-                th(rowspan="2") Competencias fundantes
+                th(rowspan="2") Competencias integradoras
                 th(colspan="4") Necesidades existenciales
                 th(rowspan="2") Necesidades axiológicas
               tr
@@ -332,7 +332,7 @@
           table
             thead
               tr
-                th(rowspan="2") Competencias fundantes
+                th(rowspan="2") Competencias integradoras
                 th(colspan="4") Necesidades existenciales
                 th(rowspan="2") Necesidades axiológicas
               tr
@@ -354,12 +354,59 @@
       h2 2.4 Gestión de conflictos
 
     p(data-aos="fade-left") La gestión de conflictos es un proceso esencial para resolver desacuerdos de manera constructiva, promoviendo la colaboración y el entendimiento. Los conflictos surgen cuando dos o más personas tienen intereses o posiciones opuestas, generalmente influenciadas por emociones. Gestionar un conflicto no significa eliminarlo, sino reducir su impacto negativo y transformarlo para que sirva como una oportunidad de mejora.
-    p.mb-5(data-aos="fade-left") Pasos clave para gestionar conflictos:
+    p(data-aos="fade-left") Pasos clave para gestionar conflictos:
 
     .row.justify-content-center.p-md-5.p-4.mb-3(data-aos="flip-up")
       .col-12
         .tarjeta.tarjeta--BG06.p-4
-          SlyderB.p-4(:datos="datosSlyder")
+          SlyderA(tipo="b")
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Se debe identificar los intereses y puntos de vista involucrados para comprender las raíces del desacuerdo. <b>Ejemplo</b>: detectar qué preocupa a cada parte en un desacuerdo sobre temas laborales.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Escuchar las emociones y posturas de los demás, con el fin de llegar a un consenso. <b>Ejemplo</b>: ponerse en el lugar de un compañero molesto para comprender su postura.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Buscar puntos en común y valorar lo que cada persona puede aportar para encontrar soluciones efectivas. <b>Ejemplo</b>: combinar ideas de dos compañeros para llegar a una solución conjunta.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img21.png', alt='Imagen decorativa')
+
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Explicar la situación sin culpar a nadie, centrándose en las posibles soluciones en lugar del problema. <b>Ejemplo</b>: decir, “Tenemos diferentes ideas, pero busquemos la mejor opción juntos”.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen decorativa')
+
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Demostrar disposición para resolver el conflicto de manera colaborativa, invitando a todos los involucrados a participar. <b>Ejemplo</b>: participar en reuniones para proponer ideas que beneficien a todos.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img23.png', alt='Imagen decorativa')
+
+            .row.justify-content-center.p-4
+              .col-lg-5.order-lg-1.order-2
+                p Crear un plan claro y sencillo que todos acepten y que permita una resolución satisfactoria para todas las partes involucradas. <b>Ejemplo</b>: crear un cronograma en el que todos estén de acuerdo para dividir tareas.
+              
+              .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img24.png', alt='Imagen decorativa')
 
     p(data-aos="fade-left") La gestión de conflictos se basa en la escucha activa, la comunicación clara y la colaboración, transformando los desacuerdos en oportunidades para fortalecer relaciones y mejorar procesos.
     p.mb-5(data-aos="fade-left") Existen varios estilos para manejar los conflictos, y la elección del adecuado depende de la situación y de los objetivos que se deseen lograr. Cada estilo tiene sus características, ventajas y desventajas, lo que influye en la dinámica del conflicto, como se presenta a continuación:
@@ -432,7 +479,7 @@
           table
             thead
               tr
-                th(rowspan="2") Competencias fundantes
+                th(rowspan="2") Competencias integradoras
                 th(colspan="4") Necesidades existenciales
                 th(rowspan="2") Necesidades axiológicas
               tr
