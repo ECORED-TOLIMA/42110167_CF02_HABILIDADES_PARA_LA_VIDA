@@ -16,7 +16,7 @@ export default {
       tema: 'Competencias para la vida fundantes e integradoras',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Lea la afirmación de cada ítem y luego señale la respuesta correcta según sus conocimientos del componente.',
+        '<b> Objetivo:</b> Identificar elementos personales que fortalezcan el desarrollo de la autoestima, de acuerdo al autodiagnóstico reflejado en la apropiación de conocimientos',
       barajarPreguntas: true,
       preguntas: [
         {

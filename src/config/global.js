@@ -150,7 +150,7 @@ export default {
       link: 'https://www.redalyc.org/pdf/706/70601005.pdf',
     },
     {
-      tema: '2. Competencia integradoras',
+      tema: '2. Competencia integradora',
       referencia:
         'Max-Neef, M. (1986). Desarrollo a Escala Humana: una opción para el futuro. ',
       tipo: 'Libro',
@@ -172,7 +172,7 @@ export default {
     {
       termino: 'Competencias fundantes',
       significado:
-        'habilidades socioemocionales que forman la base del desarrollo personal y profesional, como autoestima, regulación emocional entre otras. ',
+        'habilidades socioemocionales que forman la base del desarrollo personal y profesional, como autoestima, regulación emocional, entre otras. ',
     },
     {
       termino: 'Competencias integradoras',
@@ -182,7 +182,7 @@ export default {
     {
       termino: 'Comunicación',
       significado:
-        'proceso de compartir ideas, pensamientos y emociones con otros esencial para establecer y mantener relaciones sociales efectivas',
+        'proceso de compartir ideas, pensamientos y emociones con otros, esencial para establecer y mantener relaciones sociales efectivas.',
     },
     {
       termino: 'Desarrollo a Escala Humana (DEH)',
@@ -217,12 +217,12 @@ export default {
     {
       termino: 'Regulación emocional',
       significado:
-        'habilidad para manejar las emociones de manera efectiva, decidiendo cuándo y cómo experimentarlas y expresarlas',
+        'habilidad para manejar las emociones de manera efectiva, decidiendo cuándo y cómo experimentarlas y expresarlas.',
     },
     {
       termino: 'Resiliencia',
       significado:
-        'la capacidad de adaptarse y superar situaciones adversas, recuperándose y encontrando formas de salir fortalecido',
+        'la capacidad de adaptarse y superar situaciones adversas, recuperándose y encontrando formas de salir fortalecido.',
     },
     {
       termino: 'Satisfactores sinérgicos',

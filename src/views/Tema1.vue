@@ -41,7 +41,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Vinculación
-            p.text-center.mb-0.px-2 Sentirse parte de un grupo importante como la familia o los amigos. Por ejemplo, un niño que siente apoyo constante de sus padres desarrolla un sentido de pertenecía solido.
+            p.text-center.mb-0.px-2 Sentirse parte de un grupo importante como la familia o los amigos. Por ejemplo, un niño que siente apoyo constante de sus padres desarrolla un sentido de pertenencia solido.
 
       .col-xxl-3.col-xl-4.col-lg-4.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-upper(@mouseover="mostrarIndicador = false")
@@ -53,7 +53,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Singularidad
-            p.text-center.mb-0.px-2 Reconocer lo que hace única a cada persona  y ser valorado por ello  como un talento o una habilidad especial. Por ejemplo un aprendiz que sobresale en dibujo  se siente reconocido y motivado para mejorar su técnica.
+            p.text-center.mb-0.px-2 Reconocer lo que hace única a cada persona  y ser valorado por ello  como un talento o una habilidad especial. Por ejemplo, un aprendiz que sobresale en dibujo  se siente reconocido y motivado para mejorar su técnica.
 
       .col-xxl-3.col-xl-4.col-lg-4.col-sm-10.col-md-8.mb-xl-3.mb-4(data-aos="fade-right")
         .tarjetas-upper(@mouseover="mostrarIndicador = false")
@@ -65,7 +65,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Poder
-            p.text-center.mb-0.px-2 Percibir la capacidad de influir en la propia vida y alcanzar metas. por ejemplo  una adolescente que se fija una meta académica y la cumple refuerza su confianza en la capacidad para lograr objetivos.
+            p.text-center.mb-0.px-2 Percibir la capacidad de influir en la propia vida y alcanzar metas. por ejemplo  una adolescente que se fija una meta académica y la cumple, refuerza su confianza en la capacidad para lograr objetivos.
 
       .col-xxl-3.col-xl-4.col-lg-4.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-upper(@mouseover="mostrarIndicador = false")
@@ -101,7 +101,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--verde")
           .row.justify-content-center(titulo="Componente cognoscitivo")
             p Se refiere a cómo una persona se percibe y piensa sobre sí misma. Este concepto evoluciona con el aprendizaje y el crecimiento personal, e incluye ideas, creencias y el procesamiento de información sobre la identidad propia. El autoconcepto, junto con la autoimagen, resulta fundamental para desarrollar la autoestima, ya que impacta tanto en la percepción actual como en las metas futuras.
-            p.mb-0 <b>Ejemplo</b>: un estudiante que cree ser bueno resolviendo problemas matemáticos refuerza su confianza al participar en clase y se anima a plantearse objetivos más desafiantes, como competir en olimpiadas académicas.
+            p.mb-0 <b>Ejemplo</b>: un estudiante que cree ser bueno resolviendo problemas matemáticos, refuerza su confianza al participar en clase y se anima a plantearse objetivos más desafiantes, como competir en olimpiadas académicas.
             
           .row.justify-content-center(titulo="Componente afectivo")
             p Refleja cómo las personas se sienten y se valoran a sí mismas, de manera positiva ("Me gusta cómo soy") o negativa ("No hago nada bien"). Este componente es el núcleo de la autoestima, ya que integra la percepción de las propias cualidades, generando emociones como orgullo, satisfacción o frustración.
@@ -226,7 +226,7 @@
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span <em>Modelo Multimodal del proceso de regulación emocional.</em>
+          span <em>Modelo multimodal del proceso de regulación emocional.</em>
         .row.justify-content-center
           .col-lg-12.col-10
             figure.desktop
@@ -313,7 +313,7 @@
                 td.text-bold Regulación emocional
                 td Desarrolla procesos de autoconocimiento que permitan identificar emociones y la forma de regularlas.
                 td Utiliza herramientas de identificación y manejo de emociones en la vida personal y en la interacción con los otros.
-                td Aprende a ejercen una influencia sobre las emociones experimentadas, sobre cuando suceden y sobre cómo se experimentan y se expresan.
+                td Aprende a ejercer una influencia sobre las emociones experimentadas, sobre cuándo suceden y sobre cómo se experimentan y se expresan.
                 td En los espacios en los que participa y promueve la expresión y manejo de las emociones individuales y colectivas, de una manera constructiva.
                 td Subsistencia, protección, afecto, participación, identidad y libertad.
 
@@ -492,7 +492,7 @@
                 td.text-bold Resiliencia
                 td Identifica las características que han permitido superar situaciones difíciles.
                 td Reconoce los mecanismos que le han permitido superar la adversidad tanto a sí mismo como a otros.
-                td Pone en práctica acciones que potencien las fortalezas y ayuden a superar las adversidades.
+                td Pone en práctica acciones que potencialicen las fortalezas y ayuden a superar las adversidades.
                 td Crea espacios con el entorno familiar y amigos que consoliden percepciones optimistas del futuro.
                 td Subsistencia, protección, participación e identidad.
 
@@ -519,7 +519,7 @@
           .col-lg-5.order-lg-1.order-2
             h4 Toda comunicación tiene contenido y relación
             p Cada mensaje combina información con la intención de definir la relación entre los interlocutores.
-            p.mb-0 <b>Ejemplo</b>: "¿Puedes pasarme eso?" en un tono amable muestra cortesía, mientras que un tono brusco indica desagrado.
+            p.mb-0 <b>Ejemplo</b>: "¿Puedes pasarme eso?", en un tono amable, muestra cortesía, mientras que un tono brusco indica desagrado.
           
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -540,7 +540,7 @@
             h4 Modalidades de comunicación: digital y analógica
             p <b>Digital</b>: se refiere a las palabras utilizadas.
             p <b>Analógica</b>: implica los gestos, tonos o expresiones.
-            p.mb-0 <b>Ejemplo</b>: "Estoy bien" dicho con una sonrisa refuerza el mensaje, pero con un tono serio puede contradecirlo.
+            p.mb-0 <b>Ejemplo</b>: "Estoy bien", dicho con una sonrisa, refuerza el mensaje, pero con un tono serio puede contradecirlo.
           
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -596,7 +596,7 @@
     p.mb-5(data-aos="fade-left") Para que la comunicación sea eficaz, es fundamental trabajar en habilidades específicas que garanticen claridad y comprensión en el mensaje. Uno de los aspectos más importantes es la escucha, ya que determina cómo se recibe y procesa lo que el interlocutor está expresando. Existen tres tipos principales de escucha, cada uno con un impacto distinto en la calidad del intercambio comunicativo:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-12.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img44.svg' alt="Imagen decorativa")
@@ -606,9 +606,9 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Escucha selectiva
-            p.text-center.mb-0.px-3 En este tipo de escucha, la atención del receptor es parcial y se alterna entre el mensaje y las distracciones  externas o internas. Las personas  que escuchan de manera selectiva tienden a captar únicamente lo que consideran relevante, dejando de lado detalles que podrían ser importantes para la compresión global.
+            p.text-center.mb-0.px-2 En este tipo de escucha, la atención del receptor es parcial y se alterna entre el mensaje y las distracciones  externas o internas. Las personas  que escuchan de manera selectiva tienden a captar únicamente lo que consideran relevante, dejando de lado detalles que podrían ser importantes para la comprensión global.
 
-      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-12.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img45.svg' alt="Imagen decorativa")
@@ -618,19 +618,19 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Escucha lógica
-            p.text-center.mb-0.px-3 Aquí, el receptor se enfoca en el contenido racional y estructurado del mensaje. Se busca el sentido lógico de las ideas, separando la información de las emociones que puedan  acompañarla. Este tipo escucha es útil para evaluar argumentos o analizar  conclusiones, aunque puede limitar la conexión emocional  con el interlocutor.
+            p.text-center.mb-0.px-2 Aquí, el receptor se enfoca en el contenido racional y estructurado del mensaje. Se busca el sentido lógico de las ideas, separando la información de las emociones que puedan  acompañarla. Este tipo de escucha es útil para evaluar argumentos o analizar  conclusiones, aunque puede limitar la conexión emocional  con el interlocutor.
 
-      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-12.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img46.svg' alt="Imagen decorativa")
           .tarjetas-up_card
-            .title.d-flex.align-items-center.justify-content-center.mb-4
+            .title.d-flex.align-items-center.justify-content-center.mb-2
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Escucha activa y empática
-            p.text-center.mb-0.px-3 Este tipo de escucha combina atención plena y empatía, permitiendo al receptor comprender tanto el contenido como las emociones detrás del mensaje. Consiste en ponerse en el lugar del interlocutor, esforzándose por entender su perspectiva y las sensaciones que manifiesta. esta es la forma mas completa y eficaz de escuchar, ya que fomenta el entendimiento mutuo y refuerza la relación entre las partes.
+            p.text-center.mb-0.px-1 Este tipo de escucha combina atención plena y empatía, permitiendo al receptor comprender tanto el contenido como las emociones detrás del mensaje. Consiste en ponerse en el lugar del interlocutor, esforzándose por entender su perspectiva y las sensaciones que manifiesta. esta es la forma mas completa y eficaz de escuchar, ya que fomenta el entendimiento mutuo y refuerza la relación entre las partes.
 
     p(data-aos="fade-left") Para garantizar una comunicación efectiva, se deben desarrollar las siguientes competencias, las cuales constituyen la base para lograr un intercambio claro, respetuoso y significativo de ideas y emociones. Estas competencias no solo mejoran la forma en que nos relacionamos con los demás, sino que también fortalecen nuestra capacidad para entender y ser entendidos en diversos contextos, ya sea en el ámbito personal, profesional o social.
     p.mb-5(data-aos="fade-left") Las competencias necesarias para una comunicación efectiva pueden clasificarse en cuatro áreas fundamentales: exponer, escuchar, convencer y contestar, cada una de ellas orientada a facilitar diferentes aspectos del proceso comunicativo.

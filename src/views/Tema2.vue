@@ -131,7 +131,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-12.mb-md-0.order-lg-1.order-2
             LineaTiempoD.color-acento-botones.especial
-              p(numero="1" titulo="Comunicación") Mantener canales abiertos , escuchar y estar dispuesto hacer ajustes. El equipo funciona mejor cuando las estrategias son claras y compartidas. 
+              p(numero="1" titulo="Comunicación") Mantener canales abiertos, escuchar y estar dispuesto hacer ajustes. El equipo funciona mejor cuando las estrategias son claras y compartidas. 
                 br
                 br
                 | <b>Ejemplo</b>: reunirse periódicamente para revisar avances y ajustar planes.
