@@ -150,7 +150,7 @@ export default {
       link: 'https://www.redalyc.org/pdf/706/70601005.pdf',
     },
     {
-      tema: '2. Competencia integradora',
+      tema: '2. Competencias integradoras',
       referencia:
         'Max-Neef, M. (1986). Desarrollo a Escala Humana: una opción para el futuro. ',
       tipo: 'Libro',
