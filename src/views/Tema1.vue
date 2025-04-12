@@ -233,7 +233,7 @@
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='En la figura 1 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
               figcaption Nota. Información tomada de Gross, 2002.
           .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Figura_1_Modelo_multimodal_del_proceso_de_regulación_emocional.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Figura_1_Modelo_multimodal_del_proceso_de_regulacion_emocional.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -645,7 +645,7 @@
             figure.desktop
               img(src='@/assets/curso/temas/tema1/img47.svg', alt='En la figura 2, se presenta un enfoque eficaz para la comunicación: primero exponer las ideas de forma clara y organizada; luego escuchar atentamente; continuar con contestar, aclarando dudas o inquietudes; y culminar con convencer, empleando argumentos sólidos que generen interés y logren consenso.')
           .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_2_Áreas_de_competencias_de_la_comunicación_para_garantizar_eficacia.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_2_Areas_de_competencias_de_la_comunicacion_para_garantizar_eficacia.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

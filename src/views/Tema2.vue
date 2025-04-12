@@ -60,7 +60,7 @@
             figure.desktop
               img(src='@/assets/curso/temas/tema2/img05.svg', alt='En la figura 4 se presentan las competencias integradoras en cuatro áreas: trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo, y cómo se conectan con habilidades esenciales como autoestima, empatía, comunicación asertiva, regulación emocional y pensamiento creativo.')
           .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_4_Interacción_sistémica_competencias_integradoras.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_4_Interaccion_sistemica_competencias_integradoras.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
