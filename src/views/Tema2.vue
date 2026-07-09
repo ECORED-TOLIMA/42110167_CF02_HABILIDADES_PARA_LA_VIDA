@@ -11,21 +11,22 @@
 
     .col-12.mb-5(data-aos="flip-up")
       figure
-        img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img01.png')
 
     p.mb-5(data-aos="fade-left") Estas competencias surgen de una interacción sistémica, lo que significa que se integran de manera dinámica y coordinada para abordar situaciones complejas en diferentes entornos, así como se destaca en la siguiente figura:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
-          span <i>Interacción sistémica competencias integradoras.</i>
+          h5 Figura 5.  
+          span Interacción sistémica competencias integradoras. 
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema2/img02.svg', alt='En la figura 3 se presenta la interacción entre elementos esenciales como la empatía, la autoestima, la regulación emocional, la comunicación asertiva y las habilidades técnicas, que en conjunto permiten consolidar el trabajo en equipo.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img03.svg', alt='En la figura 3 se presenta la interacción entre elementos esenciales como la empatía, la autoestima, la regulación emocional, la comunicación asertiva y las habilidades técnicas, que en conjunto permiten consolidar el trabajo en equipo.')
+            img(src='@/assets/curso/temas/tema2/36.svg', alt='En la figura 5 se presenta la interacción entre elementos esenciales como la empatía, la autoestima, la regulación emocional, la comunicación asertiva y las habilidades técnicas, que en conjunto permiten consolidar el trabajo en equipo.')
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/37.svg', alt='En la figura 5 se presenta la interacción entre elementos esenciales como la empatía, la autoestima, la regulación emocional, la comunicación asertiva y las habilidades técnicas, que en conjunto permiten consolidar el trabajo en equipo.')
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -36,37 +37,37 @@
           p.text-bold.bloque-texto-f__texto.text-center - Según Tobón (2006)
           p.text-regular.bloque-texto-f__texto.text-center Las competencias integradoras son aquellas habilidades que permiten combinar conocimientos, habilidades, valores y actitudes con el objetivo de enfrentar situaciones complejas en contextos específicos, generando acciones efectivas y adaptativas. Estas competencias se caracterizan por la capacidad de aplicar de manera integrada los aprendizajes en escenarios reales, respondiendo de forma creativa y autónoma.
 
-    p.mb-5(data-aos="fade-left") Las competencias integradoras priorizadas incluyen trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo.
+    p.mb-5.text-center(data-aos="fade-left") Las competencias integradoras priorizadas incluyen trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
           .col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/tema2/img04.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img04.png')
           .col-lg-6.col-12.order-lg-1.order-2
             .cajon.cajon.color-secundario.p-4.mb-3
               p.mb-0 Un ejemplo para explicar las competencias integradoras es el trabajo en equipo, que combina competencias fundantes como la autoestima, la empatía y la regulación emocional, con habilidades integradoras como la comunicación asertiva y la gestión de grupos. Sin las competencias fundantes, el trabajo en equipo pierde su esencia, ya que estas son fundamentales para el desarrollo personal y social. Por otro lado, las competencias integradoras actúan como el puente entre estas habilidades, permitiéndonos actuar, crear y participar activamente en conjunto con los demás.
 
-    p.mb-5(data-aos="fade-left") En cuanto a las competencias integradoras, estas surgen como resultado de una interacción sistémica, como se explica a continuación:
+    p.mb-5.text-center(data-aos="fade-left") En cuanto a las competencias integradoras, estas surgen como resultado de una interacción sistémica, como se explica a continuación:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4.
-          span <em>Interacción sistémica competencias integradoras.</em>
-        .row.justify-content-center
-          .col-lg-12.col-10
-            figure.desktop
-              img(src='@/assets/curso/temas/tema2/img05.svg', alt='En la figura 4 se presentan las competencias integradoras en cuatro áreas: trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo, y cómo se conectan con habilidades esenciales como autoestima, empatía, comunicación asertiva, regulación emocional y pensamiento creativo.')
-          .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_4_Interaccion_sistemica_competencias_integradoras.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p Anexo. Figura 4. Interacción sistémica competencias integradoras
+          h5 Figura 6. 
+          span Interacción sistémica competencias integradoras.
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema2/38.svg', alt='En la figura 6 se presentan las competencias integradoras en cuatro áreas: trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo, y cómo se conectan con habilidades esenciales como autoestima, empatía, comunicación asertiva, regulación emocional y pensamiento creativo.')
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/39.svg', alt='En la figura 6 se presentan las competencias integradoras en cuatro áreas: trabajo en equipo, gestión de conflictos, toma de decisiones y liderazgo, y cómo se conectan con habilidades esenciales como autoestima, empatía, comunicación asertiva, regulación emocional y pensamiento creativo.')
 
-    p(data-aos="fade-left") Todas estas competencias se enmarcan dentro de la matriz propuesta por Max-Neef (1986), como satisfactores sinérgicos, es decir, aquellas que, por la manera en que satisfacen una necesidad específica, fomentan y contribuyen a la satisfacción simultánea de otras necesidades.
+      
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-lg-10
+        p(data-aos="fade-left") Todas estas competencias se enmarcan dentro de la matriz propuesta por Max-Neef (1986), como satisfactores sinérgicos, es decir, aquellas que, por la manera en que satisfacen una necesidad específica, fomentan y contribuyen a la satisfacción simultánea de otras necesidades.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -122,7 +123,7 @@
                   p.mb-0 Buscar soluciones conjuntas ante imprevistos o dificultades.
           .col-lg-4.col-md-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img07.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img07.svg')
 
     p.mb-5(data-aos="fade-left") Para que un equipo de trabajo realmente funcione, se necesita:
 
@@ -157,7 +158,7 @@
                 | <b>Ejemplo</b>: un miembro diseña, otro organiza y otro presenta los resultados, trabajando juntos como un todo.
           .col-lg-5.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img08.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/40.png')
 
     p.mb-5(data-aos="fade-left") La siguiente matriz expone cómo la competencia de trabajo en equipo puede fortalecerse al considerar las necesidades existenciales y su alineación con las necesidades axiológicas desde el enfoque del Desarrollo a Escala Humana (DEH):
 
@@ -165,7 +166,7 @@
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span <em>Correlación de las necesidades existenciales, axiológicas y la competencia integradora de trabajo en equipo.</em>
+          span Correlación de las necesidades existenciales, axiológicas y la competencia integradora de trabajo en equipo.
         .tabla-a.clstabla.color-acento-contenido
           table
             thead
@@ -195,31 +196,47 @@
     p(data-aos="fade-left") Un buen líder no solo se enfoca en el cumplimiento de las metas, sino que también prioriza el bienestar del equipo. Escucha diferentes perspectivas, fomenta la participación en la toma de decisiones y motiva al grupo para avanzar juntos hacia los objetivos compartidos.
     p.mb-5(data-aos="fade-left") Un líder democrático o participativo se caracteriza por las siguientes cualidades:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-8.col-12.mb-md-0.order-lg-2.order-2
-        LineaTiempoD.color-acento-botones.especial
-          p(numero="1" titulo="Carisma") Inspira confianza y respeto, siendo un modelo a seguir por su comportamiento ético y moral.
-            br
-            br
-            | <b>Ejemplo</b>: un instructor que, con su pasión y valores, motiva a sus aprendices a superarse constantemente.
-          
-          p(numero="2" titulo="Inspiración") Motiva al equipo, fomenta el trabajo colaborativo y genera entusiasmo a través de una visión compartida de futuro.
-            br
-            br
-            | <b>Ejemplo</b>: un entrenador que inspira a su equipo a dar lo mejor en cada partido para alcanzar el campeonato.
-          
-          p(numero="3" titulo="Estimulación intelectual") Promueve la innovación y la creatividad, alentando el aprendizaje de los errores sin temor a críticas.
-            br
-            br
-            |<b>Ejemplo</b>: un jefe que incentiva a su equipo a proponer nuevas estrategias sin miedo a equivocarse.
+    .row.justify-content-center.mb-3(data-aos="flip-up")
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
+        .crd.crd--grayGrad(data-aos="flip-left")
+          .bottomCircle.mb-5
+            figure
+              img(src="@/assets/curso/temas/tema2/41.svg", alt="alt").img90.m-auto
+          h4.text-center Carisma
+          p Inspira confianza y respeto, siendo un modelo a seguir por su comportamiento ético y moral.
 
-          p(numero="4" titulo="Consideración individualizada") Se preocupa por el desarrollo personal de cada integrante, ofreciendo orientación personalizada según sus necesidades.
-            br
-            br
-            | <b>Ejemplo</b>: un instructor que adapta sus métodos de enseñanza al ritmo y necesidades de cada aprendiz.
-      .col-lg-4.col-md-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img09.png', alt='Imagen decorativa')
+          p #[b Ejemplo:] un instructor que, con su pasión y valores, motiva a sus aprendices a superarse constantemente.
+
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
+        .crd.crd--grayGrad(data-aos="flip-left")
+          .bottomCircle.mb-5
+            figure
+              img(src="@/assets/curso/temas/tema2/42.svg", alt="alt").img90.m-auto
+          h4.text-center Inspiración 
+          p Motiva al equipo, fomenta el trabajo colaborativo y genera entusiasmo a través de una visión compartida de futuro.
+
+          p #[b Ejemplo:] un entrenador que inspira a su equipo a dar lo mejor en cada partido para alcanzar el campeonato.
+
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
+        .crd.crd--grayGrad(data-aos="flip-left")
+          .bottomCircle.mb-5
+            figure
+              img(src="@/assets/curso/temas/tema2/43.svg", alt="alt").img90.m-auto
+          h4.text-center Manipuladora
+          p Promueve la innovación y la creatividad, alentando el aprendizaje de los errores sin temor a críticas.
+
+          p #[b Ejemplo:] un jefe que incentiva a su equipo a proponer nuevas estrategias sin miedo a equivocarse.
+
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
+        .crd.crd--grayGrad(data-aos="flip-left")
+          .bottomCircle.mb-5
+            figure
+              img(src="@/assets/curso/temas/tema2/44.svg", alt="alt").img90.m-auto
+          h4.text-center Consideración individualizada
+          p Se preocupa por el desarrollo personal de cada integrante, ofreciendo orientación personalizada según sus necesidades.
+
+          p #[b Ejemplo:] un instructor que adapta sus métodos de enseñanza al ritmo y necesidades de cada aprendiz.
+
 
     p.mb-5(data-aos="fade-left") La siguiente matriz presenta, desde el enfoque de Desarrollo a Escala Humana (DEH), cómo la competencia de liderazgo se puede fortalecer a partir de las necesidades existenciales (ser, tener, hacer y estar) y hacia el cumplimiento de las necesidades axiológicas (entendimiento, participación, creación y libertad).
 
@@ -227,7 +244,7 @@
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
-          span <em>Correlación entre necesidades existenciales, axiológicas y la competencia integradora de liderazgo.</em>
+          span Correlación de las necesidades existenciales, axiológicas y la competencia integradora de trabajo en equipo. 
         .tabla-a.clstabla.color-acento-contenido
           table
             thead
@@ -327,7 +344,7 @@
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
-          span <em>Correlación de las necesidades existenciales y axiológicas con la competencia integradora de toma de decisiones.</em>
+          span Correlación de las necesidades existenciales y axiológicas con la competencia integradora de toma de decisiones.
         .tabla-a.clstabla.color-acento-contenido
           table
             thead
@@ -366,7 +383,7 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img19.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
@@ -374,7 +391,7 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img20.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
@@ -382,7 +399,7 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img21.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img21.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
@@ -390,7 +407,7 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img22.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
@@ -398,7 +415,7 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img23.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img23.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
@@ -406,56 +423,56 @@
               
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
-                  img(src='@/assets/curso/temas/tema2/img24.png', alt='Imagen decorativa')
+                  img(src='@/assets/curso/temas/tema2/img24.png')
 
     p(data-aos="fade-left") La gestión de conflictos se basa en la escucha activa, la comunicación clara y la colaboración, transformando los desacuerdos en oportunidades para fortalecer relaciones y mejorar procesos.
     p.mb-5(data-aos="fade-left") Existen varios estilos para manejar los conflictos, y la elección del adecuado depende de la situación y de los objetivos que se deseen lograr. Cada estilo tiene sus características, ventajas y desventajas, lo que influye en la dinámica del conflicto, como se presenta a continuación:
 
     TabsB.color-acento-botones.mb-5(data-aos="flip-up")
-      .py-4.py-md-5(titulo="Competitivo" :icono="require('@/assets/curso/temas/tema2/img25.svg')")
+      .py-4.py-md-5(titulo="Competitivo" :icono="require('@/assets/curso/temas/tema2/45.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Este estilo se centra únicamente en los propios intereses, ignorando a la otra persona. Se caracteriza por la imposición y puede agravar el conflicto, ya que no considera las necesidades ni las opiniones de los demás.
             p.mb-0 <b>Ejemplo</b>: forzar a un compañero a aceptar tu idea sin considerar su opinión.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img26.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img26.png')
 
-      .py-4.py-md-5(titulo="Evitativo" :icono="require('@/assets/curso/temas/tema2/img27.svg')")
+      .py-4.py-md-5(titulo="Evitativo" :icono="require('@/assets/curso/temas/tema2/46.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Las partes involucradas no enfrentan ni sus propios intereses ni los de los demás, lo que deja el conflicto sin resolver. Este estilo puede ser útil en situaciones menores, pero a largo plazo no soluciona el problema.
             p.mb-0 <b>Ejemplo</b>: ignorar un problema con un amigo para evitar discusiones.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img28.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img28.png')
 
-      .py-4.py-md-5(titulo="Acomodativo" :icono="require('@/assets/curso/temas/tema2/img29.svg')")
+      .py-4.py-md-5(titulo="Acomodativo" :icono="require('@/assets/curso/temas/tema2/47.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Se cede completamente para satisfacer al otro, sacrificando los propios intereses. Aunque puede mantener la armonía, este estilo puede generar resentimientos si se utiliza constantemente.
             p.mb-0 <b>Ejemplo</b>: aceptar hacer un trabajo extra para evitar molestar al jefe inmediato.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img30.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img30.png')
 
-      .py-4.py-md-5(titulo="De compromiso" :icono="require('@/assets/curso/temas/tema2/img31.svg')")
+      .py-4.py-md-5(titulo="De compromiso" :icono="require('@/assets/curso/temas/tema2/48.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Ambas partes ceden un poco para encontrar una solución aceptable para ambos. Es un estilo equilibrado, pero puede no satisfacer completamente a ninguna de las partes.
             p.mb-0 <b>Ejemplo</b>: dividir una tarea en partes iguales tras una discusión.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img32.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img32.png')
 
-      .py-4.py-md-5(titulo="Cooperativo o de colaboración" :icono="require('@/assets/curso/temas/tema2/img33.svg')")
+      .py-4.py-md-5(titulo="Cooperativo o de colaboración" :icono="require('@/assets/curso/temas/tema2/49.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
             p Ambas partes buscan resolver el conflicto de manera creativa, trabajando juntas para lograr beneficios mutuos. Este estilo suele ser el más efectivo, ya que fomenta la colaboración y el respeto mutuo.
             p.mb-0 <b>Ejemplo</b>: proponer una nueva idea que combine las opiniones de todos en el equipo.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema2/img34.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img34.png')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12        
@@ -466,7 +483,7 @@
               
             .col-lg-3.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img35.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img35.svg')
 
     p.mb-5(data-aos="fade-left") La siguiente matriz resume cómo, desde el enfoque de Desarrollo a Escala Humana (DEH), la competencia de gestión del conflicto puede fortalecerse a partir de las necesidades existenciales y hacia el cumplimiento de las necesidades axiológicas:
 

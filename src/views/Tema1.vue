@@ -20,7 +20,23 @@
               p Se comparan con los cimientos de una casa, ya que sobre ellas se construyen todas las demás habilidades necesarias para la vida. Estas competencias permiten desarrollar el valor propio, superar dificultades, comunicarse de manera efectiva, establecer relaciones saludables y comprender y gestionar las emociones.
               p.mb-0 Además, estas competencias no solo facilitan que las personas se valoren y se perciban en diferentes contextos, sino que también resultan esenciales para comprenderse mejor, regular sus emociones y establecer conexiones positivas con los demás y con el entorno. Representan una base clave para llevar una vida plena y construir relaciones significativas.
 
-    p(data-aos="fade-left") Las habilidades socioemocionales fundantes que se han priorizado incluyen la autoestima, la regulación emocional, la empatía, la resiliencia y la comunicación.
+        p(data-aos="fade-left") Las habilidades socioemocionales fundantes que se han priorizado incluyen la autoestima, la regulación emocional, la empatía, la resiliencia y la comunicación.
+
+        p.p-4.bg-1.bg-r8.text-center A continuación, se relaciona una imagen que sintetiza lo relacionado con las competencias fundantes:
+
+    .row.justify-content-center.mb-4(data-aos="flip-up")
+      .col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 1.
+          span Competencias fundantes.
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema1/48.svg', alt='En la figura 1 se sintetiza las competencias fundantes del desarrollo socioemocional: autoestima, regulación emocional, empatía, resiliencia y comunicación; destacando sus principales componentes asociados al bienestar personal, la convivencia y la interacción social efectiva.')
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/49.svg', alt='En la figura 1 se sintetiza las competencias fundantes del desarrollo socioemocional: autoestima, regulación emocional, empatía, resiliencia y comunicación; destacando sus principales componentes asociados al bienestar personal, la convivencia y la interacción social efectiva.')
+
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -79,69 +95,57 @@
               h5.mb-0 Modelos y pautas
             p.text-center.mb-0.px-2 Aprender de los ejemplos cercanos para establecer valores y diferenciar  lo correcto de lo incorrecto. Por ejemplo, un joven que presta atención  como su hermano mayor maneja conflictos, aprende estrategias para resolver problemas de manera constructiva.
 
-    p(data-aos="fade-left") Ninguno de estos aspectos es más importante que los demás; todos son igualmente necesarios.
 
-    p.mb-5(data-aos="fade-left") Aunque estos elementos suelen desarrollarse en la infancia, es posible cultivarlos más adelante si no se establecieron en esa etapa. La autoestima es un concepto dinámico: puede fortalecerse, profundizarse o conectarse con otras actitudes, pero también debilitarse con el tiempo. Las experiencias personales, tanto públicas como privadas, desempeñan un papel crucial en este proceso, reflejando los altibajos de la vida.
+    .row.justify-content-center.mt-4
+      .col-lg-10
+        p(data-aos="fade-left") Ninguno de estos aspectos es más importante que los demás; todos son igualmente necesarios.
+        .row.align-items-center
+          .col-lg-12
+            .cajon.color2.p-4
+              p p Aunque estos elementos suelen desarrollarse en la infancia, es posible cultivarlos más adelante si no se establecieron en esa etapa. La autoestima es un concepto dinámico: puede fortalecerse, profundizarse o conectarse con otras actitudes, pero también debilitarse con el tiempo. Las experiencias personales, tanto públicas como privadas, desempeñan un papel crucial en este proceso, reflejando los altibajos de la vida.
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-10.col-12
-        .bloque-texto-f.c1.pt-4.px-5
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left
-            i.fas.fa-quote-right
-          p.text-bold.bloque-texto-f__texto.text-center - Según Branden (2010)
-          p.text-regular.bloque-texto-f__texto.text-center Si puedo aceptar que soy quien soy, que siento lo que siento, que hice lo que hice –si puedo aceptarlo, me guste o no–, puedo aceptarme a mí mismo. [...] Una vez que puedo aceptar todo esto, estoy del lado de la realidad, no contra ella. Tengo libre el camino para comenzar a fortalecer mi autoestima.
-
-    p(data-aos="fade-left") Esta reflexión subraya que la aceptación plena de uno mismo, incluidas las limitaciones y dudas, es el primer paso para fortalecer la autoestima. Este enfoque alinea a las personas con la realidad y abre camino hacia un desarrollo genuino y positivo.
-    
-    p.mb-5(data-aos="fade-left") La autoestima comprende tres componentes interrelacionados, de modo que cualquier cambio en uno influye en los otros:
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-8.col-12.order-lg-1.order-2
-        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--verde")
-          .row.justify-content-center(titulo="Componente cognoscitivo")
-            p Se refiere a cómo una persona se percibe y piensa sobre sí misma. Este concepto evoluciona con el aprendizaje y el crecimiento personal, e incluye ideas, creencias y el procesamiento de información sobre la identidad propia. El autoconcepto, junto con la autoimagen, resulta fundamental para desarrollar la autoestima, ya que impacta tanto en la percepción actual como en las metas futuras.
-            p.mb-0 <b>Ejemplo</b>: un estudiante que cree ser bueno resolviendo problemas matemáticos, refuerza su confianza al participar en clase y se anima a plantearse objetivos más desafiantes, como competir en olimpiadas académicas.
-            
-          .row.justify-content-center(titulo="Componente afectivo")
-            p Refleja cómo las personas se sienten y se valoran a sí mismas, de manera positiva ("Me gusta cómo soy") o negativa ("No hago nada bien"). Este componente es el núcleo de la autoestima, ya que integra la percepción de las propias cualidades, generando emociones como orgullo, satisfacción o frustración.
-            p.mb-0 <b>Ejemplo</b>: si alguien se siente satisfecho con su esfuerzo al aprender algo nuevo, aunque no sea perfecto, fortalece una autoestima positiva, incentivándolo a seguir mejorando.
-            
-          .row.justify-content-center(titulo="Componente conductual")
-            p Se refiere a las acciones que reflejan confianza y la búsqueda de respeto hacia uno mismo y de los demás. Estas conductas muestran cómo las personas afirman su identidad y reafirman su valía personal.
-            p.mb-0 <b>Ejemplo</b>: al defender su opinión en un grupo, una persona demuestra seguridad en sí misma, incluso si los demás no están de acuerdo.
-
-      .col-lg-4.col-md-6.col-8.mb-3.order-lg-2.order-1.mb-lg-0
-        figure
-          img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen decorativa')
-
-    p.mb-5(data-aos="fade-left") La siguiente matriz presenta, desde el enfoque del Desarrollo a Escala Humana (DEH), la manera en que la competencia de la autoestima puede fortalecerse mediante la atención a las necesidades existenciales y su alineación con el cumplimiento de las necesidades axiológicas:        
+        p.mb-5.mt-4(data-aos="fade-left") La siguiente tabla se presenta, los componentes de la autoestima desde el componente de Desarrollo a Escala Humana (DEH), articulando Ser, Tener, Hacer y Estar:  
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          span <em>Correlación de las necesidades fundantes, existenciales y axiológicas de la autoestima.</em>
+          span Componentes de la autoestima.
         .tabla-a.clstabla.color-acento-contenido.mb-5 
           table
             thead
               tr
-                th(rowspan="2") Competencias fundantes
-                th(colspan="4") Necesidades existenciales
-                th(rowspan="2") Necesidades axiológicas
+                td.text-bold.text-center Componente
+                td.text-bold.text-center Ser (cualidades internas)
+                td.text-bold.text-center Tener (recursos/apoyos)
+                td.text-bold.text-center Hacer (acciones/prácticas)
+                td.text-bold.text-center Estar (contextos/espacios)
+            tbody
+              tr(style="background-color: #F6F6F6")
+                td
+                  b Cognoscitivo
+                td Autoconocimiento, seguridad intelectual, claridad sobre la identidad personal.
+                td Creencias positivas sobre sí mismo, información y retroalimentación constructiva.
+                td Reflexionar sobre capacidades, fijar metas personales y académicas desafiantes.
+                td Espacios educativos y familiares que promueven el aprendizaje y el reconocimiento de logros.
               tr
-                td.text-bold.text-center SER (características)
-                td.text-bold.text-center TENER (herramientas)
-                td.text-bold.text-center HACER (acciones)
-                td.text-bold.text-center ESTAR (espacios)
-            tbody(style="background-color: #F6F6F6")
-              tr
-                td.text-bold Autoestima
-                td Explora fortalezas, debilidades, sueños, metas, intereses y aspectos a mejorar como elementos clave para el reconocimiento y la construcción de su trayectoria personal de vida.
-                td Desarrolla herramientas para priorizar y atender necesidades vitales.
-                td Fortalece sus potencialidades y construye una trayectoria de vida con la que se siente realizado.
-                td Comparte con personas que contribuyen al fortalecimiento de su autoestima en entornos familiares, sociales, laborales y educativos.
-                td Afecto, entendimiento, participación, creación, identidad y libertad.
+                td
+                  b Afectivo
+                td Autoaceptación, valoración personal, satisfacción por el esfuerzo propio.
+                td Reconocimiento emocional, apoyo afectivo, mensajes de validación.
+                td Expresar sentimientos, reconocer avances personales y tolerar errores.
+                td Ambientes seguros y respetuosos donde se validan las emociones.
+
+              tr(style="background-color: #F6F6F6")
+                td
+                  b Conductual
+                td Confianza, autonomía, respeto por sí mismo.
+                td Oportunidades de participación, normas claras, acompañamiento social.
+                td Defender opiniones, tomar decisiones, actuar con coherencia personal.
+                td Grupos sociales, educativos o comunitarios donde se permite la participación activa y el respeto mutuo.
+
+
+
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -220,26 +224,48 @@
             p Actualmente, las emociones se consideran herramientas útiles para la adaptación, las relaciones y el logro de objetivos. Incluso las emociones negativas, como la tristeza o el enojo, cumplen un propósito, aunque, si no se gestionan adecuadamente, pueden prolongarse y consumir energía.
             p.mb-0 La regulación emocional es la capacidad de manejar sentimientos y su expresión. Las estrategias de regulación permiten decidir qué emociones experimentar, cómo y cuándo hacerlo. Según Gross (2002), estas estrategias pueden enfocarse en prevenir la emoción antes de que surja ("estrategias centradas en el antecedente") o en manejarla después de que se haya generado ("estrategias centradas en la respuesta"). Desarrollar esta habilidad mejora el bienestar general y facilita el manejo de las situaciones diarias.
 
-    p.mb-5(data-aos="fade-left") La siguiente figura hace referencia al Modelo Multimodal, con el cual Gross describe el proceso de regulación emocional:
+        p.p-4.bg-1.bg-r8.mt-4(data-aos="fade-left") La siguiente figura hace referencia al Modelo multimodal, con el cual Gross describe el proceso de regulación emocional:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1.
-          span <em>Modelo multimodal del proceso de regulación emocional.</em>
-        .row.justify-content-center
-          .col-lg-12.col-10
-            figure.desktop
-              img(src='@/assets/curso/temas/tema1/img14.svg', alt='En la figura 1 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
-              figcaption Nota. Información tomada de Gross, 2002.
-          .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Figura_1_Modelo_multimodal_del_proceso_de_regulacion_emocional.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p Anexo. Figura 1. Modelo multimodal del proceso de regulación emocional
-    
-    p.mb-5(data-aos="fade-left") Las emociones pueden manejarse en cinco momentos clave según este modelo:
+          h5 Figura 2. 
+          span Modelo multimodal del proceso de regulación emocional.
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema1/50.svg', alt='En la figura 2 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
+            figcaption Nota. Información tomada de Gross, 2002. 
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/51.svg', alt='En la figura 2 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
+
+
+    .row.justify-content-center.mt-4
+      .col-lg-10
+
+        .titulo-tres.mt-5: h3 Estrategias de regulación emocional 
+
+        p.mt-2 Para iniciar, es importante analizar la siguiente imagen:
+
+    .row.justify-content-center.mb-4(data-aos="flip-up")
+      .col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 3. 
+          span Modelo multimodal del proceso de regulación emocional.
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema1/52.svg', alt='En la figura 3 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
+          
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/53.svg', alt='En la figura 3 se presenta el Modelo Multimodal de regulación emocional de Gross (2002), que describe cómo las emociones se gestionan a través de la interacción entre la situación emocional, la cognición, la emoción y las acciones. La situación inicial puede ser modificada, lo que afecta tanto las emociones como las respuestas. Además, la cognición influye en la atención y en el cambio mental, facilitando la regulación emocional y mejorando la adaptación.')
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-lg-10
+        p.mt-4 A continuación, se presentan tips para regular las emociones, organizados según el Modelo multimodal del proceso de regulación emocional (Gross, 2022), estas estrategias ayudan a manejar mejor las emociones y a adaptarse al entorno:         
+
 
     TabsB.color-acento-botones.mb-5(data-aos="flip-up")
       .py-4.py-md-5(titulo="Selección de la situación" :icono="require('@/assets/curso/temas/tema1/img15.svg')")
@@ -287,15 +313,13 @@
             figure
               img(src='@/assets/curso/temas/tema1/img24.png', alt='Imagen decorativa')
 
-    p(data-aos="fade-left") Estas estrategias ayudan a manejar mejor las emociones y a adaptarse al entorno.
-
-    p.mb-5(data-aos="fade-left") En este contexto, la siguiente matriz relaciona las necesidades existenciales y axiológicas, vinculadas a la regulación emocional:
+    p(data-aos="fade-left") En este contexto, la siguiente matriz relaciona las necesidades existenciales y axiológicas, vinculadas a la regulación emocional:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
-          span <em>Correlación entre necesidades existenciales, axiológicas y la competencia socioemocional de regulación emocional.</em>
+          span Correlación entre necesidades existenciales, axiológicas y la competencia socioemocional de regulación emocional. 
         .tabla-a.clstabla.color-acento-contenido.mb-5 
           table
             thead
@@ -635,21 +659,18 @@
     p(data-aos="fade-left") Para garantizar una comunicación efectiva, se deben desarrollar las siguientes competencias, las cuales constituyen la base para lograr un intercambio claro, respetuoso y significativo de ideas y emociones. Estas competencias no solo mejoran la forma en que nos relacionamos con los demás, sino que también fortalecen nuestra capacidad para entender y ser entendidos en diversos contextos, ya sea en el ámbito personal, profesional o social.
     p.mb-5(data-aos="fade-left") Las competencias necesarias para una comunicación efectiva pueden clasificarse en cuatro áreas fundamentales: exponer, escuchar, convencer y contestar, cada una de ellas orientada a facilitar diferentes aspectos del proceso comunicativo.
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2.
-          span <em>Áreas de competencias de la comunicación para garantizar eficacia.</em>
-        .row.justify-content-center
-          .col-lg-12.col-10
-            figure.desktop
-              img(src='@/assets/curso/temas/tema1/img47.svg', alt='En la figura 2, se presenta un enfoque eficaz para la comunicación: primero exponer las ideas de forma clara y organizada; luego escuchar atentamente; continuar con contestar, aclarando dudas o inquietudes; y culminar con convencer, empleando argumentos sólidos que generen interés y logren consenso.')
-          .col-auto.movil(data-aos="fade-left")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Figura_2_Areas_de_competencias_de_la_comunicacion_para_garantizar_eficacia.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p Anexo. Figura 2. Áreas de competencias de la comunicación para garantizar eficacia
+          h5 Figura 4. 
+          span Áreas de competencias de la comunicación para garantizar eficacia. 
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema1/54.svg', alt='En la figura 4 se presenta un enfoque eficaz para la comunicación: primero exponer las ideas de forma clara y organizada; luego escuchar atentamente; continuar con contestar, aclarando dudas o inquietudes; y culminar con convencer, empleando argumentos sólidos que generen interés y logren consenso.')
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/55.svg', alt='En la figura 4 se presenta un enfoque eficaz para la comunicación: primero exponer las ideas de forma clara y organizada; luego escuchar atentamente; continuar con contestar, aclarando dudas o inquietudes; y culminar con convencer, empleando argumentos sólidos que generen interés y logren consenso.')
     
     p.mb-5(data-aos="fade-left") Cada una de estas competencias está interrelacionada y contribuye a mejorar la calidad de la comunicación, facilitando un diálogo que promueva el entendimiento, la empatía y el respeto mutuo. Cultivarlas no solo permite evitar malentendidos, sino que también fomenta relaciones más sólidas y enriquecedoras en todos los aspectos de la vida. La comunicación está profundamente relacionada con las necesidades humanas, tanto existenciales como axiológicas. La siguiente tabla presenta cómo fortalecer la competencia de comunicación desde estas perspectivas:
 
@@ -657,7 +678,7 @@
       .col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
-          span <em>Correlación de las necesidades existenciales, axiológicas y la competencia socioemocional de comunicación.</em>
+          span Correlación de las necesidades existenciales, axiológicas y la competencia socioemocional de comunicación.
         .tabla-a.clstabla.color-acento-contenido
           table
             thead
