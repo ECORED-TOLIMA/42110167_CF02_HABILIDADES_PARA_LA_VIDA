@@ -222,7 +222,7 @@
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema2/43.svg", alt="alt").img90.m-auto
-          h4.text-center Manipuladora
+          h4.text-center Estimulación Intelectual
           p Promueve la innovación y la creatividad, alentando el aprendizaje de los errores sin temor a críticas.
 
           p #[b Ejemplo:] un jefe que incentiva a su equipo a proponer nuevas estrategias sin miedo a equivocarse.
@@ -379,48 +379,72 @@
           SlyderA(tipo="b")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Se debe identificar los intereses y puntos de vista involucrados para comprender las raíces del desacuerdo. <b>Ejemplo</b>: detectar qué preocupa a cada parte en un desacuerdo sobre temas laborales.
-              
+                p #[b Analizar el conflicto]
+
+                p Se debe identificar los intereses y puntos de vista involucrados para comprender las raíces del desacuerdo. 
+
+                p #[b Ejemplo:] detectar qué preocupa a cada parte en un desacuerdo sobre temas laborales.  
+
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img19.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Escuchar las emociones y posturas de los demás, con el fin de llegar a un consenso. <b>Ejemplo</b>: ponerse en el lugar de un compañero molesto para comprender su postura.
-              
+                p 
+                 b Escuchar con empatía
+
+                p Escuchar las emociones y posturas de los demás, con el fin de llegar a un consenso. 
+
+                p #[b Ejemplo:] ponerse en el lugar de un compañero molesto para comprender su postura. 
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img20.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Buscar puntos en común y valorar lo que cada persona puede aportar para encontrar soluciones efectivas. <b>Ejemplo</b>: combinar ideas de dos compañeros para llegar a una solución conjunta.
-              
+                p 
+                 b Reconocer opiniones
+
+                p Buscar puntos en común y valorar lo que cada persona puede aportar para encontrar soluciones efectivas. 
+
+                p #[b Ejemplo:] combinar ideas de dos compañeros para llegar a una solución conjunta. 
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img21.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Explicar la situación sin culpar a nadie, centrándose en las posibles soluciones en lugar del problema. <b>Ejemplo</b>: decir, “Tenemos diferentes ideas, pero busquemos la mejor opción juntos”.
-              
+                p 
+                 b Comunicar claramente
+
+                p Explicar la situación sin culpar a nadie, centrándose en las posibles soluciones en lugar del problema.
+
+                p #[b Ejemplo:] decir, “Tenemos diferentes ideas, pero busquemos la mejor opción juntos”.  
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img22.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Demostrar disposición para resolver el conflicto de manera colaborativa, invitando a todos los involucrados a participar. <b>Ejemplo</b>: participar en reuniones para proponer ideas que beneficien a todos.
-              
+                p
+                 b Buscar soluciones activamente
+
+                p Demostrar disposición para resolver el conflicto de manera colaborativa, invitando a todos los involucrados a participar.
+
+                p #[b Ejemplo:] participar en reuniones para proponer ideas que beneficien a todos.  
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img23.png')
 
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p Crear un plan claro y sencillo que todos acepten y que permita una resolución satisfactoria para todas las partes involucradas. <b>Ejemplo</b>: crear un cronograma en el que todos estén de acuerdo para dividir tareas.
-              
+                p
+                 b Proponer un plan
+
+                p Crear un plan claro y sencillo que todos acepten y que permita una resolución satisfactoria para todas las partes involucradas.
+
+                p #[b Ejemplo:] crear un cronograma en el que todos estén de acuerdo para dividir tareas.  
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img24.png')

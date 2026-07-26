@@ -102,7 +102,7 @@
         .row.align-items-center
           .col-lg-12
             .cajon.color2.p-4
-              p p Aunque estos elementos suelen desarrollarse en la infancia, es posible cultivarlos más adelante si no se establecieron en esa etapa. La autoestima es un concepto dinámico: puede fortalecerse, profundizarse o conectarse con otras actitudes, pero también debilitarse con el tiempo. Las experiencias personales, tanto públicas como privadas, desempeñan un papel crucial en este proceso, reflejando los altibajos de la vida.
+              p Aunque estos elementos suelen desarrollarse en la infancia, es posible cultivarlos más adelante si no se establecieron en esa etapa. La autoestima es un concepto dinámico: puede fortalecerse, profundizarse o conectarse con otras actitudes, pero también debilitarse con el tiempo. Las experiencias personales, tanto públicas como privadas, desempeñan un papel crucial en este proceso, reflejando los altibajos de la vida.
 
         p.mb-5.mt-4(data-aos="fade-left") La siguiente tabla se presenta, los componentes de la autoestima desde el componente de Desarrollo a Escala Humana (DEH), articulando Ser, Tener, Hacer y Estar:  
 
@@ -264,51 +264,137 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10
-        p.mt-4 A continuación, se presentan tips para regular las emociones, organizados según el Modelo multimodal del proceso de regulación emocional (Gross, 2022), estas estrategias ayudan a manejar mejor las emociones y a adaptarse al entorno:         
+        p.mt-4 A continuación, se presentan <em>tips</em> para regular las emociones, organizados según el Modelo multimodal del proceso de regulación emocional (Gross, 2022), estas estrategias ayudan a manejar mejor las emociones y a adaptarse al entorno:         
 
 
     TabsB.color-acento-botones.mb-5(data-aos="flip-up")
-      .py-4.py-md-5(titulo="Selección de la situación" :icono="require('@/assets/curso/temas/tema1/img15.svg')")
+      .py-4.py-md-5(titulo="Elegir la situación" :icono="require('@/assets/curso/temas/tema1/56.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p Decidir estar o no en situaciones que generen emociones positivas o negativas.
-            p.mb-0 <b>Ejemplo</b>: evitar un lugar que te pone ansioso.
+
+            ul.lista-ul--color
+              li
+                i.lista-ul__vineta
+                p.mb-0 Identifica qué situaciones suelen detonar emociones intensas (ira, ansiedad, tristeza).
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Cuando sea posible, anticipa y evita contextos innecesariamente estresantes.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Prioriza actividades y entornos que te generen bienestar, calma o motivación.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Establece límites claros frente a personas o espacios que afecten tu estabilidad emocional.
+
+                
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img16.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5(titulo="Modificación de la situación" :icono="require('@/assets/curso/temas/tema1/img17.svg')")
+      .py-4.py-md-5(titulo="Modificación de la situación" :icono="require('@/assets/curso/temas/tema1/57.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p Cambiar algo en el entorno o en cómo lo enfrentas para reducir el impacto emocional.
-            p.mb-0 <b>Ejemplo</b>: si una discusión se pone tensa, puedes cambiar de tema para calmar las cosas.
+
+            ul.lista-ul--color
+              li
+                i.lista-ul__vineta
+                p.mb-0 Ajusta el entorno físico: iluminación, ruido, orden del espacio.
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Comunica tus necesidades de forma asertiva cuando algo te incomode.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Divide tareas abrumadoras en pasos pequeños y manejables.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Busca apoyo cuando la situación te sobrepase (familia, equipo de trabajo, redes de apoyo).
+
+
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img18.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5(titulo="Despliegue de atención" :icono="require('@/assets/curso/temas/tema1/img19.svg')")
+      .py-4.py-md-5(titulo="Despliegue de atención" :icono="require('@/assets/curso/temas/tema1/58.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p Consiste en elegir a qué prestar atención para influir en las emociones.
-            p.mb-0 <b>Ejemplo</b>: una persona decide distraerse viendo un video divertido cuando se siente triste.
+            ul.lista-ul--color
+              li
+                i.lista-ul__vineta
+                p.mb-0 Desvía temporalmente la atención cuando la emoción sea muy intensa (caminar, escuchar música, respirar).
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Practica técnicas de atención plena (mindfulness) para observar la emoción sin juzgarla.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Evita la rumiación: si notas pensamientos repetitivos, redirige la atención a una actividad concreta.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Usa anclajes sensoriales (olores, sonidos, objetos) para volver al presente.
+
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5(titulo="Cambio cognitivo" :icono="require('@/assets/curso/temas/tema1/img21.svg')")
+      .py-4.py-md-5(titulo="Cambio cognitivo (revaluación)" :icono="require('@/assets/curso/temas/tema1/59.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p Implica modificar la forma de pensar sobre una situación para reducir su impacto emocional.
-            p.mb-0 <b>Ejemplo</b>: en lugar de enojarse por llegar tarde, una persona considera que fue algo excepcional y no tan grave.
+            ul.lista-ul--color
+              li
+                i.lista-ul__vineta
+                p.mb-0 Pregúntate: ¿Existe otra forma de ver esta situación?
+
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Cuestiona pensamientos automáticos negativos o catastróficos.
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Distingue entre hechos y suposiciones.
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Reformula la experiencia como una oportunidad de aprendizaje o crecimiento.
+
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img22.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5(titulo="Modulación de la respuesta" :icono="require('@/assets/curso/temas/tema1/img23.svg')")
+      .py-4.py-md-5(titulo="Modulación de la respuesta" :icono="require('@/assets/curso/temas/tema1/60.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p Se refiere a controlar cómo se expresan las emociones una vez que han surgido.
-            p.mb-0 <b>Ejemplo</b>: aunque está molesta, una persona opta por mantener la calma durante una reunión importante.
+            ul.lista-ul--color
+              li
+                i.lista-ul__vineta
+                p.mb-0 Practica respiración profunda o técnicas de relajación muscular.
+
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Realiza actividad física para liberar tensión acumulada.
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Expresa las emociones de forma saludable (hablar, escribir, crear).
+
+              li
+                i.lista-ul__vineta
+                p.mb-0 Evita reprimir de manera excesiva; busca formas seguras de canalizar lo que siente.
+
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img24.png', alt='Imagen decorativa')
