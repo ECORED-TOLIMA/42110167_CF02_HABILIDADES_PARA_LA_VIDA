@@ -376,6 +376,11 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
           nombre: 'Manuel Felipe Echavarria Orozco',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
